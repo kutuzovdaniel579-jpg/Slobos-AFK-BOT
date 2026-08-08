@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "SEVER",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "sheffpp.aternos.me",
+    "port": 32108,
+    "version": "26.2"
   },
   "position": {
     "enabled": true,
@@ -27,12 +27,10 @@
     },
     "chat-messages": {
       "enabled": true,
-      "repeat": true,
+      "repeat": false,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Remember that all in a radius of 5x5 chunks are loaded by me!"
       ]
     },
     "chat-log": true,
